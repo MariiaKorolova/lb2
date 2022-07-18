@@ -1,0 +1,40 @@
+[{
+  "login": "Денис",
+  "password": "587209gdfh32",
+  "IP": "192.168.5.255",
+  "balance": -123,
+  "messages": [
+    "excuse me",
+    "bye"
+  ]
+},{
+  "login": "Мария",
+  "password": "zxcvbnm",
+  "IP": "255.255.255.0",
+  "balance": 1078,
+  "messages": [
+    "nice",
+    "pretty"
+  ]
+},{
+  "login": "Александр",
+  "password": "asdfghjk89",
+  "IP": "1.1.1.1",
+  "balance": 4986,
+  "messages": [
+    "like",
+    "dispose",
+	"array"
+  ]
+},{
+  "login": "Наталия",
+  "password": "safdsg436",
+  "IP": "192.168.5.0",
+  "balance": -1,
+  "messages": [
+    "no",
+    "timur",
+	"my god",
+	"oh!"
+  ]
+  }]

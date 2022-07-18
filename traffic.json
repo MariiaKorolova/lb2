@@ -1,0 +1,69 @@
+[{
+  "start": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 1
+    }
+  },
+  "stop": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 2
+    }
+  },
+  "traffic_in": 3487163,
+  "traffic_out": 47827,
+  "IP": "192.168.5.255",
+  "cost": 4567
+},{
+  "start": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 1
+    }
+  },
+  "stop": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 2
+    }
+  },
+  "traffic_in": 6742,
+  "traffic_out": 456,
+  "IP": "255.255.255.0",
+  "cost": 1235
+},{
+  "start": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 1
+    }
+  },
+  "stop": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 2
+    }
+  },
+  "traffic_in": 689176836,
+  "traffic_out": 5667104,
+  "IP": "1.1.1.1",
+  "cost": 80252
+},{
+  "start": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 1
+    }
+  },
+  "stop": {
+    "$timestamp": {
+      "t": 5828776384,
+      "i": 2
+    }
+  },
+  "traffic_in": 6487234,
+  "traffic_out": 78956,
+  "IP": "192.168.5.0",
+  "cost": 35265
+}]
